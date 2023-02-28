@@ -7,8 +7,12 @@ int tim_max(int * a, int n)
 {
 //ma lenh ham tim max
 }
+int tim_min(int* a, int n)
+{
+//ma lenh ham tim min
+}
 int main()
 {
-cout<<"Phien ban 2";
+cout<<"Phien ban: my function";
 return 0;
 }
